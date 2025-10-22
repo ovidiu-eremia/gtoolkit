@@ -4,3 +4,5 @@ scripts/localbuild-pharo8/glamoroustoolkit
 scripts/localbuild-pharo9/glamoroustoolkit
 lib
 *.iml
+**/.config
+**/.local
